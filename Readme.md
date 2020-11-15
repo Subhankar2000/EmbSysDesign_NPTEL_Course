@@ -13,3 +13,9 @@
 * [./Hardware/Design_Files](./Software/Examples_Msp430G2553_LunchBox)
 
 ![CCS PROJECTS](https://github.com/Subhankar2000/EmbSysDesign_NPTEL_Course/blob/master/blob/2CCS.jpg?raw=true)
+
+## Fritzing Sketch files location 
+
+* [./Software/Fritzing_Sketch](./Software/Fritzing_Sketch)
+
+![FRITZING SKETCH](https://github.com/Subhankar2000/EmbSysDesign_NPTEL_Course/blob/master/blob/3F.jpg?raw=true)
