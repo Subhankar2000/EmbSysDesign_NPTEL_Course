@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="9.3.0"/>
+	<deviceVariant value="MSP430G2553"/>
+	<deviceFamily value="MSP430"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="GNU_4.6.3:Energia"/>
+	<isElfFormat value="true"/>
+	<connection value="common/targetdb/connections/TIMSP430-USB.xml"/>
+	<rts value=""/>
+	<createSlaveProjects value=""/>
+	<ignoreDefaultDeviceSettings value="true"/>
+	<origin value="C:\Users\Subhankar Karmakar\Documents\Energia\week7_Q3\week7_Q3.ino"/>
+	<filesToOpen value="week7_Q3.ino"/>
+</projectOptions>
