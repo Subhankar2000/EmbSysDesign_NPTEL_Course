@@ -28,6 +28,7 @@ void main(void)
             ;
 
         // This part was adjusted as per video, in the original repository this was not there
+        // as a result in simulation, the toggle was very very fast
     }
 }
 
