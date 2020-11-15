@@ -26,6 +26,8 @@ void main(void)
         P1OUT ^= RED;                       // Toggle RED LED
         for (i = 0; i < 20000; i++)
             ;
+
+        // This part was adjusted as per video, in the original repository this was not there
     }
 }
 
