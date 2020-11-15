@@ -1,4 +1,4 @@
-# [ FORK ]
+# [ Forked ]
 
 ## Course link
 
