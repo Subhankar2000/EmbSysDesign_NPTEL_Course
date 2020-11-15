@@ -19,3 +19,8 @@
 * [./Software/Fritzing_Sketch](./Software/Fritzing_Sketch)
 
 ![FRITZING SKETCH](https://github.com/Subhankar2000/EmbSysDesign_NPTEL_Course/blob/master/blob/3F.jpg?raw=true)
+
+```diff
++ If you have cloned this repository, make sure you do a "git pull origin master" as I update files weekly
++ and add new experiments as the NPTEL weeks unfold.
+```
