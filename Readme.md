@@ -1,4 +1,4 @@
-# Fork of EmbSysDesign_NPTEL_Course(ticepd)
+# EmbSysDesign_NPTEL_Course(TIcepd)-Forked
 
 ## Course link
 
