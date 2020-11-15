@@ -26,3 +26,15 @@
 + If you have cloned this repository, make sure you do a "git pull origin master" as I update files weekly
 + and add new experiments as the NPTEL weeks unfold.
 ```
+
+```diff
+- Deleting the Documents(PDF) - Doc Folder
+- The Documents provided in the original repository were outdated
+- and can also be found on the internet, if required
+- They were big bulk files and were taking up major space.
+- So, I deleted them.
+```
+
+```diff
+! Now the repository does not contain any doc about BSL program, MSP430 LunchBox & LaunchPad UART
+```
