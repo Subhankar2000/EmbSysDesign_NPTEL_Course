@@ -1,4 +1,4 @@
-# [MOD]EmbSysDesign_NPTEL_Course
+# [FORK]EmbSysDesign_NPTEL_Course
 
 ## Course link
 
