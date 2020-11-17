@@ -5,9 +5,9 @@
 * [Introduction to Embedded System Design
 By Prof. Dhananjay V. Gadre, Prof. Badri Subudhi   |   Netaji Subhas University of Technology, IIT Jammu - ODD SEM](https://swayam.gov.in/nd1_noc20_ee98/preview)
 
-## Link to my repository - Proteus v8.9 Simulations for MSP430G2553
+## Link to my repository page - Proteus v8.9 Simulations for MSP430G2553
 
-* [MSP430G2553 + Proteus v8.9 .pdsprj](https://github.com/Subhankar2000/MSP430G2553-Proteus-v8.9-Simulation)
+* [MSP430G2553 + Proteus v8.9 .pdsprj](https://subhankar2000.github.io/MSP430G2553-Proteus-v8.9-Simulation/)
 
 ## Design files location 
 
