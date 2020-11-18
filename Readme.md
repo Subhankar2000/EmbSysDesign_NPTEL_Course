@@ -50,7 +50,7 @@ By Prof. Dhananjay V. Gadre, Prof. Badri Subudhi   |   Netaji Subhas University 
 By Prof. Dhananjay V. Gadre, Prof. Badri Subudhi   |   Netaji Subhas University of Technology, IIT Jammu](https://www.youtube.com/playlist?list=PLp6ek2hDcoNAxTQ7uyp68N_RpuULV-zrX)
 
 
-## Week wise distribution of Examples Msp430G2553 LunchBox
+## Week wise distribution of Examples Msp430G2553
 + Week 7
 	* Exp00_LunchBox_Template
 	* Exp00_LunchBox_Template
