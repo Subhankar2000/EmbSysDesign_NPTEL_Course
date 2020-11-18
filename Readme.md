@@ -43,3 +43,8 @@ By Prof. Dhananjay V. Gadre, Prof. Badri Subudhi   |   Netaji Subhas University 
 ```diff
 ! Now the repository does not contain any doc about BSL program, MSP430 LunchBox & LaunchPad UART
 ```
+
+## YouTube Playlist Link
+
+* [Introduction to Embedded System Design
+By Prof. Dhananjay V. Gadre, Prof. Badri Subudhi   |   Netaji Subhas University of Technology, IIT Jammu - ODD SEM](https://www.youtube.com/playlist?list=PLp6ek2hDcoNAxTQ7uyp68N_RpuULV-zrX)
