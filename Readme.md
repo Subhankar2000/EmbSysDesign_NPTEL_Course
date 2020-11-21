@@ -91,6 +91,7 @@ By Prof. Dhananjay V. Gadre, Prof. Badri Subudhi   |   Netaji Subhas University 
 	* Exp28_LunchBox_HelloSerial
 	* Exp29_LunchBox_HelloPeriod
 	* Exp30_LunchBox_HelloFrequency
-	* ...
-+ Week 12 
-	* ...
+	* Exp31_LunchBox_SerialLog
+	* Exp32_LunchBox_CharlieLog
+	* Exp33_LunchBox_RefreshSSD_Sequential
+	* Exp34_LunchBox_RefreshSSD_InterruptBased
